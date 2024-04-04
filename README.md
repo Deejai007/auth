@@ -12,10 +12,4 @@ This project is a simple user authentication system built using Node.js with Exp
 - PostgreSQL for data storage
 - Error handling middleware
 
-## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
-- Node.js installed on your machine
-- PostgreSQL database installed and running
-- Basic understanding of Node.js, Express, PostgreSQL, and Sequelize
